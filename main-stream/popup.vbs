@@ -1,0 +1,1 @@
+lol=msgbox("Do not close the terminal behind unless you want to stop your discord RPC.",64,"Discord RPC - iPuppyYT")
